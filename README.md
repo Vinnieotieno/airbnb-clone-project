@@ -113,3 +113,7 @@ POST /reviews/ - Create a new review
 GET /reviews/{review_id}/ - Retrieve a specific review
 PUT /reviews/{review_id}/ - Update a specific review
 DELETE /reviews/{review_id}/ - Delete a specific review
+
+CI/CD Pipelines 
+Automated pipelines for testing and deploying code changes.
+They automatically move code through stages such as source, build, test, and deploy. This is crucial because it ensures a smooth workflow, reduces manual effort, and keeps the software ready for deployment at all times. Important tools to mention include GitHub Actions, Docker.
